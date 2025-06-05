@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @giadafe
-- 🌱
+🌱 Hi, I’m @giadafe
 
 <!---
 giadafe/giadafe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
